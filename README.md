@@ -1,2 +1,5 @@
 # Megamak
-The Megamak keyboard layout
+
+```x l y w k  z f o u ; 
+c r s t g  b n e i a 
+j v d m q  p h / , .```
